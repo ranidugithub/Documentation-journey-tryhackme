@@ -4,7 +4,7 @@
 #4 Combine the pet name with the word cyber as a new twitter handle and then add the city they are from.
 #The out put should look like this "Your new twitter handle and bio @cyberfred from Honolulu
 
-print("Hello!! Welcome back to my prgram")
-pet_name = input("Please enter the name of your pet. ")
-city_name = input("Please enter the city you born ")
+print("Welcome back to program...")
+pet_name = input("PLease enter your pet name : ")
+city_name = input("PLease enter your born city : ")
 print(f'Your new twitter handle and bio @cyber{pet_name} from {city_name}')
